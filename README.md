@@ -8,7 +8,7 @@ Starting small, and gradually working my way up, I started with 64/64 pixel imag
 
 The first neural network I'm attempting to teach the computet to draw with is an LSTM (long short term memory network.)
 
-I've created some new codecs to inteprets 12,000 images to text, and then back to a scrolling image.
+I've created some new codecs to interpret 12,000 images to text, and then back to a scrolling image.
 
 I'm using TensorFlow's lstm text generation to generate new sequences in my codec and then reinterpreting them to javascript.
 
